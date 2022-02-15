@@ -1,19 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,600;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
 
-/*
+body{
+    font-family: 'Megrim', cursive;
+    font-weight: bold;
+}
 
-font-family: 'Montserrat', sans-serif;
+ul{
+    list-style-image: url("./WH98jZl.jpg");
+}
 
-*/
-
-.book {
-    font-family: 'Montserrat', sans-serif;
-    list-style-type: none;
-    width: 50%;
-    height: auto;
-    border: 1px solid black;
-    border-radius: 8px;
-    margin-bottom: 20px;
-    padding: 20px;
-    background-color: #e4e8ff;
+li{
+    border: solid;
+    padding: 10px;
+    background-color: tomato;
+    font-size: 20px;
+    
 }
