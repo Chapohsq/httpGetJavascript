@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Orgoglio e Pregiudizio",
+        "author": "Jane Austen",
+        "publisher": "HarperCollins Italia",
+        "price": 11.40
+    },
+    {
+        "title": "Il Signore degli Anelli",
+        "author": "J.R.R. Tolkien",
+        "publisher": "Bompiani",
+        "price": 47.50
+    },
+    {
+        "title": "Il Profeta",
+        "author": "Kahlil Gibran",
+        "publisher": "Feltrinelli",
+        "price": 7.50
+    },
+    {
+        "title": "IT",
+        "author": "Stephen King",
+        "publisher": "Sperling & Kupfer",
+        "price": 17
+    },
+    {
+        "title": "Se questo è un uomo",
+        "author": "PrimoLevi",
+        "publisher": "Einaudi",
+        "price": 12
+    },
+    {
+        "title": "Cime Tempestose",
+        "author": "Emily Bronte",
+        "publisher": "Feltrinelli",
+        "price": 9.50
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "publisher": "Intra S.r.l.s.",
+        "price": 12
+    },
+    {
+        "title": "I Promessi Sposi",
+        "author": "Alessandro Manzoni",
+        "publisher": "Edimedia",
+        "price": 16
+    },
+    {
+        "title": "La Divina Commedia",
+        "author": "Dante Alighieri",
+        "publisher": "Forma Edizioni",
+        "price": 90
+    },
+    {
+        "title": "Piccole Donne",
+        "author": "Louisa May Alcott",
+        "publisher": "Giunti Junior",
+        "price": 9.50
+    }
+]
